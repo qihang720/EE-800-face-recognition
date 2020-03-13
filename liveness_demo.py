@@ -1,6 +1,3 @@
-# USAGE
-# python liveness_demo.py --model liveness.model --le le.pickle --detector face_detector
-
 # import the necessary packages
 from imutils.video import VideoStream
 from keras.preprocessing.image import img_to_array
