@@ -1,6 +1,3 @@
-# USAGE
-# python train.py --dataset dataset --model liveness.model --le le.pickle --plot 1.png
-
 # set the matplotlib backend so figures can be saved in the background
 import matplotlib
 matplotlib.use("Agg")
